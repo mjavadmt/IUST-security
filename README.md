@@ -7,10 +7,12 @@ steganography is the process of hiding a message inside a photo. The message cou
 For text extracting I also implemented meaningfulness of a text. this operation was done based on english dictionary.
 
 - main image after hiding
-  
-<img src="./Image-Cryptography/merged.jpg">
 
+<p align="center">
+<img src="./Image-Cryptography/merged.jpg">
+</p>
 
 - extracted image
-
+<p align="center">
 <img src="./Image-Cryptography/splitted.jpg">
+</p>
