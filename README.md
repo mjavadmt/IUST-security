@@ -17,3 +17,14 @@ For text extracting I also implemented meaningfulness of a text. this operation 
 <p align="center">
 <img src="./Image-Cryptography/splitted.jpg" heigth="200" width="200">
 </p>
+
+### Watermarking
+Implemented fragile watermarking in a way that put logo on the corner of an image.
+
+## Wiener Attack On RSA
+Wiener attack on RSA can be done under certain conditions. The condition is if a private key is smaller than some factor of N, an attacker can retreive private key easily. The process of Wiener attack on RSA is implemented in this project[reference](https://sagi.io/crypto-classics-wieners-rsa-attack/).
+
+## Attacks On RSA
+Two attack on RSA were simulated
+- chosen cipher text attack : which is using brute force for every plain text with some calculation which leads to encrypted message
+- factorization : unbreakability of RSA algorithm is that factorization of N is a NP hard problem and can't be factorized easily but if N is small we can factor N in polynominal time. this Implementation simulates this type of attack. 
