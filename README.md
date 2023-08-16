@@ -9,10 +9,10 @@ For text extracting I also implemented meaningfulness of a text. this operation 
 - main image after hiding
 
 <p align="center">
-<img src="./Image-Cryptography/merged.jpg">
+<img src="./Image-Cryptography/merged.jpg" heigth="200" width="200">
 </p>
 
 - extracted image
 <p align="center">
-<img src="./Image-Cryptography/splitted.jpg">
+<img src="./Image-Cryptography/splitted.jpg" heigth="200" width="200">
 </p>
