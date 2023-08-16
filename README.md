@@ -13,6 +13,7 @@ For text extracting I also implemented meaningfulness of a text. this operation 
 </p>
 
 - extracted image
+
 <p align="center">
 <img src="./Image-Cryptography/splitted.jpg" heigth="200" width="200">
 </p>
