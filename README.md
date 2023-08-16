@@ -22,7 +22,7 @@ For text extracting I also implemented meaningfulness of a text. this operation 
 Implemented fragile watermarking in a way that put logo on the corner of an image.
 
 ## Wiener Attack On RSA
-Wiener attack on RSA can be done under certain conditions. The condition is if a private key is smaller than some factor of N, an attacker can retreive private key easily. The process of Wiener attack on RSA is implemented in this project[reference](https://sagi.io/crypto-classics-wieners-rsa-attack/).
+Wiener attack on RSA can be done under certain conditions. The condition is if a private key is smaller than some factor of N, an attacker can retreive private key easily. The process of Wiener attack on RSA is implemented in this project [reference](https://sagi.io/crypto-classics-wieners-rsa-attack/).
 
 ## Attacks On RSA
 Two attack on RSA were simulated
